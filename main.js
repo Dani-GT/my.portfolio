@@ -5,7 +5,7 @@ import { linkPage } from "./utils/linkPage";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Footer } from "./components/Footer/Footer";
 import { Home } from "./pages/home/home";
-import { Projects } from "./pages/Projects/Projects";
+import { Projects } from "./pages/projects/projects";
 import { Divider } from "./components/Divider/Divider";
 
 const header = document.querySelector("header");
